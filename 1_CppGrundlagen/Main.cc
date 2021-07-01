@@ -2,7 +2,8 @@
 
 int main(void)
 {
-    std::cout << "Hello World!" << std::endl;
+    std::string name="Felix";
+    std::cout << "Hello " << name <<std::endl;
 
     return 0;
 }
